@@ -9,7 +9,7 @@
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/Befred-90/Flashcard-App/blob/main/Flashcard-App.gif" width=200><br>
 
 
 ## Required
